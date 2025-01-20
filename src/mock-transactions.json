@@ -1,0 +1,10 @@
+{
+    "transactions": [
+        { "transactionID": 1, "date": "2025-01-10T18:54:43.458Z", "description": "Transaction Desc", "amount": 200 },
+        { "transactionID": 2, "date": "2025-01-10T19:54:43.458Z", "description": "Transaction Desc", "amount": 120 },
+        { "transactionID": 3, "date": "2025-01-12T20:54:43.458Z", "description": "Transaction Desc", "amount": 234 },
+        { "transactionID": 4, "date": "2025-01-14T18:54:43.458Z", "description": "Transaction Desc", "amount": 45 },
+        { "transactionID": 5, "date": "2025-01-15T18:54:43.458Z", "description": "Transaction Desc", "amount": 1875 },
+        { "transactionID": 6, "date": "2025-01-17T18:54:43.458Z", "description": "Transaction Desc", "amount": 3200 }
+    ]
+}
